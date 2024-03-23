@@ -1,0 +1,15 @@
+{
+  "name": "bot-staff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ctjraka",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
